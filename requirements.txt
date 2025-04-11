@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+filelock
+cachetools
+geojson
+shapely
+beautifulsoup4

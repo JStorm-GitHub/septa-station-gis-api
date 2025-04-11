@@ -1,0 +1,3880 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.239952,
+          39.879077
+        ]
+      },
+      "properties": {
+        "name": "Airport Line",
+        "Line_Name": "Airport Line",
+        "Station_Na": "Airport Terminals E&F",
+        "Street_Add": "Airport Terminals E&F",
+        "On_Street": "Terminals E&F",
+        "At_Street": "Arrivals Rd",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19153",
+        "County": "Philadelphia",
+        "Stop_ID": "90401",
+        "Latitude": "39.879077",
+        "Longitude": "-75.239952"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.241297,
+          39.877385
+        ]
+      },
+      "properties": {
+        "name": "Airport Line",
+        "Line_Name": "Airport Line",
+        "Station_Na": "Airport Terminals C&D",
+        "Street_Add": "Airport Terminals C&D",
+        "On_Street": "Terminals C&D",
+        "At_Street": "Arrivals Rd",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19153",
+        "County": "Philadelphia",
+        "Stop_ID": "90402",
+        "Latitude": "39.877385",
+        "Longitude": "-75.241297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.244758,
+          39.8763
+        ]
+      },
+      "properties": {
+        "name": "Airport Line",
+        "Line_Name": "Airport Line",
+        "Station_Na": "Airport Terminal B",
+        "Street_Add": "Airport Terminal B",
+        "On_Street": "Terminal B",
+        "At_Street": "Arrivals Rd",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19153",
+        "County": "Philadelphia",
+        "Stop_ID": "90403",
+        "Latitude": "39.8763",
+        "Longitude": "-75.244758"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.24658,
+          39.87594
+        ]
+      },
+      "properties": {
+        "name": "Airport Line",
+        "Line_Name": "Airport Line",
+        "Station_Na": "Airport Terminal A",
+        "Street_Add": "Airport Terminal A",
+        "On_Street": "Terminal A",
+        "At_Street": "Arrivals Rd",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19153",
+        "County": "Philadelphia",
+        "Stop_ID": "90404",
+        "Latitude": "39.87594",
+        "Longitude": "-75.24658"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.244991,
+          39.89165
+        ]
+      },
+      "properties": {
+        "name": "Airport Line",
+        "Line_Name": "Airport Line",
+        "Station_Na": "Eastwick",
+        "Street_Add": "8511 Bartram Ave",
+        "On_Street": "Bartram Ave",
+        "At_Street": "84th St",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19153",
+        "County": "Philadelphia",
+        "Stop_ID": "90405",
+        "Latitude": "39.89165",
+        "Longitude": "-75.244991"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.752577,
+          39.670255
+        ]
+      },
+      "properties": {
+        "name": "Wilmington Newark Line",
+        "Line_Name": "Wilmington Newark Line",
+        "Station_Na": "Newark",
+        "Street_Add": "10 Mopar Dr & S. College Ave",
+        "On_Street": "Mopar Dr",
+        "At_Street": "S. College Ave",
+        "City": "Newark",
+        "State": "DE",
+        "Zip": "19711",
+        "County": "Delaware",
+        "Stop_ID": "90201",
+        "Latitude": "39.670255",
+        "Longitude": "-75.752577"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.550934,
+          39.736952
+        ]
+      },
+      "properties": {
+        "name": "Wilmington Newark Line",
+        "Line_Name": "Wilmington Newark Line",
+        "Station_Na": "Wilmington",
+        "Street_Add": "100 S. French St",
+        "On_Street": "E. Front St",
+        "At_Street": "French St",
+        "City": "Wimington",
+        "State": "DE",
+        "Zip": "19801",
+        "County": "Delaware",
+        "Stop_ID": "90203",
+        "Latitude": "39.736952",
+        "Longitude": "-75.550934"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.452077,
+          39.797811
+        ]
+      },
+      "properties": {
+        "name": "Wilmington Newark Line",
+        "Line_Name": "Wilmington Newark Line",
+        "Station_Na": "Claymont",
+        "Street_Add": "200 Myrtle Ave",
+        "On_Street": "Myrtle Ave",
+        "At_Street": "Marion Ave",
+        "City": "Claymont",
+        "State": "DE",
+        "Zip": "19703",
+        "County": "Delaware",
+        "Stop_ID": "90204",
+        "Latitude": "39.797811",
+        "Longitude": "-75.452077"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.419499,
+          39.821687
+        ]
+      },
+      "properties": {
+        "name": "Wilmington Newark Line",
+        "Line_Name": "Wilmington Newark Line",
+        "Station_Na": "Marcus Hook",
+        "Street_Add": "20 W. 12th St",
+        "On_Street": "W. 12th St",
+        "At_Street": "Washington Ave",
+        "City": "Marcus Hook",
+        "State": "PA",
+        "Zip": "19061",
+        "County": "Delaware",
+        "Stop_ID": "90205",
+        "Latitude": "39.821687",
+        "Longitude": "-75.419499"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.210998,
+          40.07013
+        ]
+      },
+      "properties": {
+        "name": "Chestnut Hill West Line",
+        "Line_Name": "Chestnut Hill West Line",
+        "Station_Na": "Highland",
+        "Street_Add": "8452 St. Martins Ln",
+        "On_Street": "St. Martins Ln",
+        "At_Street": "Highland Ave",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19118",
+        "County": "Delaware",
+        "Stop_ID": "90802",
+        "Latitude": "40.07013",
+        "Longitude": "-75.210998"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.359924,
+          39.849559
+        ]
+      },
+      "properties": {
+        "name": "Wilmington Newark Line",
+        "Line_Name": "Wilmington Newark Line",
+        "Station_Na": "Chester T.C.",
+        "Street_Add": "550 Avenue of the States",
+        "On_Street": "Avenue of the States",
+        "At_Street": "6th St",
+        "City": "Chester",
+        "State": "PA",
+        "Zip": "19013",
+        "County": "Delaware",
+        "Stop_ID": "90207",
+        "Latitude": "39.849559",
+        "Longitude": "-75.359924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.341661,
+          39.85742
+        ]
+      },
+      "properties": {
+        "name": "Wilmington Newark Line",
+        "Line_Name": "Wilmington Newark Line",
+        "Station_Na": "Eddystone",
+        "Street_Add": "650 Saville Ave",
+        "On_Street": "Saville Ave",
+        "At_Street": "Industrial Hwy",
+        "City": "Crum Lynne",
+        "State": "PA",
+        "Zip": "19022",
+        "County": "Delaware",
+        "Stop_ID": "90208",
+        "Latitude": "39.85742",
+        "Longitude": "-75.341661"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.330957,
+          39.871862
+        ]
+      },
+      "properties": {
+        "name": "Wilmington Newark Line",
+        "Line_Name": "Wilmington Newark Line",
+        "Station_Na": "Crum Lynne",
+        "Street_Add": "350 W. Ridley Ave",
+        "On_Street": "W. Ridley Ave",
+        "At_Street": "Chester Pike",
+        "City": "Ridley Park",
+        "State": "PA",
+        "Zip": "19078",
+        "County": "Delaware",
+        "Stop_ID": "90209",
+        "Latitude": "39.871862",
+        "Longitude": "-75.330957"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.322069,
+          39.880531
+        ]
+      },
+      "properties": {
+        "name": "Wilmington Newark Line",
+        "Line_Name": "Wilmington Newark Line",
+        "Station_Na": "Ridley Park",
+        "Street_Add": "201 E. Hinckley Ave",
+        "On_Street": "E. Hinckley Ave",
+        "At_Street": "Morton Ave",
+        "City": "Ridley Park",
+        "State": "PA",
+        "Zip": "19078",
+        "County": "Delaware",
+        "Stop_ID": "90210",
+        "Latitude": "39.880531",
+        "Longitude": "-75.322069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.309411,
+          39.888143
+        ]
+      },
+      "properties": {
+        "name": "Wilmington Newark Line",
+        "Line_Name": "Wilmington Newark Line",
+        "Station_Na": "Prospect Park",
+        "Street_Add": "749 Maryland Ave",
+        "On_Street": "Maryland Ave",
+        "At_Street": "Lincoln Ave",
+        "City": "Propect Park",
+        "State": "PA",
+        "Zip": "19076",
+        "County": "Delaware",
+        "Stop_ID": "90211",
+        "Latitude": "39.888143",
+        "Longitude": "-75.309411"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.302146,
+          39.891238
+        ]
+      },
+      "properties": {
+        "name": "Wilmington Newark Line",
+        "Line_Name": "Wilmington Newark Line",
+        "Station_Na": "Norwood",
+        "Street_Add": "498 Welcome Ave",
+        "On_Street": "Welcome Ave",
+        "At_Street": "Winona Ave",
+        "City": "Norwood",
+        "State": "PA",
+        "Zip": "19074",
+        "County": "Delaware",
+        "Stop_ID": "90212",
+        "Latitude": "39.891238",
+        "Longitude": "-75.302146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.290164,
+          39.896223
+        ]
+      },
+      "properties": {
+        "name": "Wilmington Newark Line",
+        "Line_Name": "Wilmington Newark Line",
+        "Station_Na": "Glenolden",
+        "Street_Add": "85 E. Glenolden Ave",
+        "On_Street": "E. Glenolden Ave",
+        "At_Street": "Chester Pike",
+        "City": "Glenolden",
+        "State": "PA",
+        "Zip": "19036",
+        "County": "Delaware",
+        "Stop_ID": "90213",
+        "Latitude": "39.896223",
+        "Longitude": "-75.290164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.279754,
+          39.900552
+        ]
+      },
+      "properties": {
+        "name": "Wilmington Newark Line",
+        "Line_Name": "Wilmington Newark Line",
+        "Station_Na": "Folcroft",
+        "Street_Add": "1555 Baltimore Ave",
+        "On_Street": "Baltimore Ave",
+        "At_Street": "Elmwood Ave",
+        "City": "Folcroft",
+        "State": "PA",
+        "Zip": "19032",
+        "County": "Delaware",
+        "Stop_ID": "90214",
+        "Latitude": "39.900552",
+        "Longitude": "-75.279754"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.270836,
+          39.904283
+        ]
+      },
+      "properties": {
+        "name": "Wilmington Newark Line",
+        "Line_Name": "Wilmington Newark Line",
+        "Station_Na": "Sharon Hill",
+        "Street_Add": "414 Sharon Ave",
+        "On_Street": "Sharon Ave",
+        "At_Street": "Elmwood Ave",
+        "City": "Sharon Hill",
+        "State": "PA",
+        "Zip": "19079",
+        "County": "Delaware",
+        "Stop_ID": "90215",
+        "Latitude": "39.904283",
+        "Longitude": "-75.270836"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.265,
+          39.908034
+        ]
+      },
+      "properties": {
+        "name": "Wilmington Newark Line",
+        "Line_Name": "Wilmington Newark Line",
+        "Station_Na": "Curtis Park",
+        "Street_Add": "400 Oak Ave",
+        "On_Street": "Oak Ave",
+        "At_Street": "Elmwood Ave",
+        "City": "Sharon Hill",
+        "State": "PA",
+        "Zip": "19079",
+        "County": "Delaware",
+        "Stop_ID": "90216",
+        "Latitude": "39.908034",
+        "Longitude": "-75.265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.25458,
+          39.912943
+        ]
+      },
+      "properties": {
+        "name": "Wilmington Newark Line",
+        "Line_Name": "Wilmington Newark Line",
+        "Station_Na": "Darby",
+        "Street_Add": "399 S. 4th St",
+        "On_Street": "S. 4th St",
+        "At_Street": "Pine St",
+        "City": "Darby",
+        "State": "PA",
+        "Zip": "19023",
+        "County": "Delaware",
+        "Stop_ID": "90217",
+        "Latitude": "39.912943",
+        "Longitude": "-75.25458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.134122,
+          40.120885
+        ]
+      },
+      "properties": {
+        "name": "Warminster Line",
+        "Line_Name": "Warminster Line",
+        "Station_Na": "Roslyn",
+        "Street_Add": "1095 Easton Rd",
+        "On_Street": "Easton Rd",
+        "At_Street": "Susquehanna Rd",
+        "City": "Abington",
+        "State": "PA",
+        "Zip": "19001",
+        "County": "Montogomery",
+        "Stop_ID": "90413",
+        "Latitude": "40.120885",
+        "Longitude": "-75.134122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.118635,
+          40.133267
+        ]
+      },
+      "properties": {
+        "name": "Warminster Line",
+        "Line_Name": "Warminster Line",
+        "Station_Na": "Crestmont",
+        "Street_Add": "2198 Rubicam Ave",
+        "On_Street": "Rubicam Ave",
+        "At_Street": "Rockwell Rd",
+        "City": "Willow Grove",
+        "State": "PA",
+        "Zip": "19090",
+        "County": "Montogomery",
+        "Stop_ID": "90414",
+        "Latitude": "40.133267",
+        "Longitude": "-75.118635"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.114357,
+          40.143672
+        ]
+      },
+      "properties": {
+        "name": "Warminster Line",
+        "Line_Name": "Warminster Line",
+        "Station_Na": "Willow Grove",
+        "Street_Add": "215 Davisville Rd (off Old York Rd)",
+        "On_Street": "Davisville Rd",
+        "At_Street": "Old York Rd",
+        "City": "Willow Grove",
+        "State": "PA",
+        "Zip": "19090",
+        "County": "Montogomery",
+        "Stop_ID": "90415",
+        "Latitude": "40.143672",
+        "Longitude": "-75.114357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.102809,
+          40.175587
+        ]
+      },
+      "properties": {
+        "name": "Warminster Line",
+        "Line_Name": "Warminster Line",
+        "Station_Na": "Hatboro",
+        "Street_Add": "40 S. Penn St",
+        "On_Street": "Penn St",
+        "At_Street": "Byberry Rd",
+        "City": "Hatbro",
+        "State": "PA",
+        "Zip": "19040",
+        "County": "Bucks",
+        "Stop_ID": "90416",
+        "Latitude": "40.175587",
+        "Longitude": "-75.102809"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.089121,
+          40.195101
+        ]
+      },
+      "properties": {
+        "name": "Warminster Line",
+        "Line_Name": "Warminster Line",
+        "Station_Na": "Warminster",
+        "Street_Add": "100 Station Dr",
+        "On_Street": "Station Dr",
+        "At_Street": "Jacksonville Rd",
+        "City": "Warminster",
+        "State": "PA",
+        "Zip": "18974",
+        "County": "Bucks",
+        "Stop_ID": "90417",
+        "Latitude": "40.195101",
+        "Longitude": "-75.089121"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.411187,
+          39.907817
+        ]
+      },
+      "properties": {
+        "name": "Media Elwyn Line",
+        "Line_Name": "Media Elwyn Line",
+        "Station_Na": "Elwyn",
+        "Street_Add": "149 Elwyn Rd",
+        "On_Street": "Elwyn Rd",
+        "At_Street": "Middletown Rd",
+        "City": "Media",
+        "State": "PA",
+        "Zip": "19063",
+        "County": "Delaware",
+        "Stop_ID": "90301",
+        "Latitude": "39.907817",
+        "Longitude": "-75.411187"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.394764,
+          39.914291
+        ]
+      },
+      "properties": {
+        "name": "Media Elwyn Line",
+        "Line_Name": "Media Elwyn Line",
+        "Station_Na": "Media",
+        "Street_Add": "309 Media Station Rd",
+        "On_Street": "Media Station Rd",
+        "At_Street": "S. Orange St",
+        "City": "Media",
+        "State": "PA",
+        "Zip": "19063",
+        "County": "Delaware",
+        "Stop_ID": "90302",
+        "Latitude": "39.914291",
+        "Longitude": "-75.394764"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.388095,
+          39.905845
+        ]
+      },
+      "properties": {
+        "name": "Media Elwyn Line",
+        "Line_Name": "Media Elwyn Line",
+        "Station_Na": "Moylan-Rose Valley",
+        "Street_Add": "4 Manchester Rd",
+        "On_Street": "Manchester Rd",
+        "At_Street": "Woodward Rd",
+        "City": "Media",
+        "State": "PA",
+        "Zip": "19063",
+        "County": "Delaware",
+        "Stop_ID": "90303",
+        "Latitude": "39.905845",
+        "Longitude": "-75.388095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.371713,
+          39.903754
+        ]
+      },
+      "properties": {
+        "name": "Media Elwyn Line",
+        "Line_Name": "Media Elwyn Line",
+        "Station_Na": "Wallingford",
+        "Street_Add": "141 E. Possum Hollow Rd",
+        "On_Street": "E. Possum Hollow Rd",
+        "At_Street": "Kershaw Ave",
+        "City": "Wallingford",
+        "State": "PA",
+        "Zip": "19086",
+        "County": "Delaware",
+        "Stop_ID": "90304",
+        "Latitude": "39.903754",
+        "Longitude": "-75.371713"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.351126,
+          39.902297
+        ]
+      },
+      "properties": {
+        "name": "Media Elwyn Line",
+        "Line_Name": "Media Elwyn Line",
+        "Station_Na": "Swarthmore",
+        "Street_Add": "Chester Rd & Park Ave",
+        "On_Street": "Park Ave",
+        "At_Street": "S. Chester Rd",
+        "City": "Swarthmore",
+        "State": "PA",
+        "Zip": "19081",
+        "County": "Delaware",
+        "Stop_ID": "90305",
+        "Latitude": "39.902297",
+        "Longitude": "-75.351126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.328338,
+          39.908042
+        ]
+      },
+      "properties": {
+        "name": "Media Elwyn Line",
+        "Line_Name": "Media Elwyn Line",
+        "Station_Na": "Morton",
+        "Street_Add": "2 S. Morton Ave",
+        "On_Street": "Yale Ave",
+        "At_Street": "S. Morton Ave",
+        "City": "Morton",
+        "State": "PA",
+        "Zip": "19070",
+        "County": "Delaware",
+        "Stop_ID": "90306",
+        "Latitude": "39.908042",
+        "Longitude": "-75.328338"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.309844,
+          39.915742
+        ]
+      },
+      "properties": {
+        "name": "Media Elwyn Line",
+        "Line_Name": "Media Elwyn Line",
+        "Station_Na": "Secane",
+        "Street_Add": "1297 Providence Rd",
+        "On_Street": "Providence Rd",
+        "At_Street": "South Ave",
+        "City": "Clifton Heights",
+        "State": "PA",
+        "Zip": "19018",
+        "County": "Delaware",
+        "Stop_ID": "90307",
+        "Latitude": "39.915742",
+        "Longitude": "-75.309844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.298513,
+          39.921611
+        ]
+      },
+      "properties": {
+        "name": "Media Elwyn Line",
+        "Line_Name": "Media Elwyn Line",
+        "Station_Na": "Primos",
+        "Street_Add": "446 S. Oak Ave",
+        "On_Street": "S. Oak Ave",
+        "At_Street": "Mildred Ave",
+        "City": "Clifton Heights",
+        "State": "PA",
+        "Zip": "19018",
+        "County": "Delaware",
+        "Stop_ID": "90308",
+        "Latitude": "39.921611",
+        "Longitude": "-75.298513"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.282157,
+          39.932728
+        ]
+      },
+      "properties": {
+        "name": "Media Elwyn Line",
+        "Line_Name": "Media Elwyn Line",
+        "Station_Na": "Gladstone",
+        "Street_Add": "198 Walsh Rd",
+        "On_Street": "Walsh Rd",
+        "At_Street": "Madison Rd",
+        "City": "Lansdowne",
+        "State": "PA",
+        "Zip": "19050",
+        "County": "Delaware",
+        "Stop_ID": "90310",
+        "Latitude": "39.932728",
+        "Longitude": "-75.282157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.271569,
+          39.937282
+        ]
+      },
+      "properties": {
+        "name": "Media Elwyn Line",
+        "Line_Name": "Media Elwyn Line",
+        "Station_Na": "Lansdowne",
+        "Street_Add": "45 S. Lansdowne Ave",
+        "On_Street": "S. Lansdowne Ave",
+        "At_Street": "Scottdale Rd",
+        "City": "Lansdowne",
+        "State": "PA",
+        "Zip": "19050",
+        "County": "Delaware",
+        "Stop_ID": "90311",
+        "Latitude": "39.937282",
+        "Longitude": "-75.271569"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.255777,
+          39.939728
+        ]
+      },
+      "properties": {
+        "name": "Media Elwyn Line",
+        "Line_Name": "Media Elwyn Line",
+        "Station_Na": "Fernwood-Yeadon",
+        "Street_Add": "413 S. Church Ln",
+        "On_Street": "S. Church Ln",
+        "At_Street": "Penn St",
+        "City": "Lansdowne",
+        "State": "PA",
+        "Zip": "19050",
+        "County": "Delaware",
+        "Stop_ID": "90312",
+        "Latitude": "39.939728",
+        "Longitude": "-75.255777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.238364,
+          39.944902
+        ]
+      },
+      "properties": {
+        "name": "Media Elwyn Line",
+        "Line_Name": "Media Elwyn Line",
+        "Station_Na": "Angora",
+        "Street_Add": "1099 S. 58th St",
+        "On_Street": "58th St",
+        "At_Street": "Fernwood St",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19143",
+        "County": "Delaware",
+        "Stop_ID": "90313",
+        "Latitude": "39.944902",
+        "Longitude": "-75.238364"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.216444,
+          39.943601
+        ]
+      },
+      "properties": {
+        "name": "Media Elwyn Line",
+        "Line_Name": "Media Elwyn Line",
+        "Station_Na": "49th Street",
+        "Street_Add": "49th St & Chester Ave",
+        "On_Street": "49th St",
+        "At_Street": "Chester Ave",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19143",
+        "County": "Philadelphia",
+        "Stop_ID": "90314",
+        "Latitude": "39.943601",
+        "Longitude": "-75.216444"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.189973,
+          39.948161
+        ]
+      },
+      "properties": {
+        "name": "Joint",
+        "Line_Name": "Joint",
+        "Station_Na": "University City",
+        "Street_Add": "3149 Convention Blvd",
+        "On_Street": "Convention Blvd",
+        "At_Street": "South St",
+        "City": "Philadaelphia",
+        "State": "PA",
+        "Zip": "19104",
+        "County": "Philadelphia",
+        "Stop_ID": "90406",
+        "Latitude": "39.948161",
+        "Longitude": "-75.189973"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.181806,
+          39.956516
+        ]
+      },
+      "properties": {
+        "name": "Joint",
+        "Line_Name": "Joint",
+        "Station_Na": "30th Street Station",
+        "Street_Add": "30th St & Market St",
+        "On_Street": "30th St",
+        "At_Street": "Market St",
+        "City": "Philadaelphia",
+        "State": "PA",
+        "Zip": "19104",
+        "County": "Philadelphia",
+        "Stop_ID": "90004",
+        "Latitude": "39.956516",
+        "Longitude": "-75.181806"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.092485,
+          40.111321
+        ]
+      },
+      "properties": {
+        "name": "West Trenton Line",
+        "Line_Name": "West Trenton Line",
+        "Station_Na": "Meadowbrook",
+        "Street_Add": "1430 Old Valley Rd",
+        "On_Street": "Old Valley Rd",
+        "At_Street": "Mill Rd",
+        "City": "Jenkintown",
+        "State": "PA",
+        "Zip": "19046",
+        "County": "Montgomery",
+        "Stop_ID": "90317",
+        "Latitude": "40.111321",
+        "Longitude": "-75.092485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.068629,
+          40.116495
+        ]
+      },
+      "properties": {
+        "name": "West Trenton Line",
+        "Line_Name": "West Trenton Line",
+        "Station_Na": "Bethayres",
+        "Street_Add": "500 Station Ave",
+        "On_Street": "Station Ave",
+        "At_Street": "Welsh Rd",
+        "City": "Huntingdon Valley",
+        "State": "PA",
+        "Zip": "19006",
+        "County": "Montgomery",
+        "Stop_ID": "90318",
+        "Latitude": "40.116495",
+        "Longitude": "-75.068629"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.020925,
+          40.127829
+        ]
+      },
+      "properties": {
+        "name": "West Trenton Line",
+        "Line_Name": "West Trenton Line",
+        "Station_Na": "Forest Hills",
+        "Street_Add": "299 Byberry Rd",
+        "On_Street": "Byberry Rd",
+        "At_Street": "Philmont Ave",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19116",
+        "County": "Philadelphia",
+        "Stop_ID": "90320",
+        "Latitude": "40.127829",
+        "Longitude": "-75.020925"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.982906,
+          40.140084
+        ]
+      },
+      "properties": {
+        "name": "West Trenton Line",
+        "Line_Name": "West Trenton Line",
+        "Station_Na": "Trevose",
+        "Street_Add": "1100 Boundbrook Ave",
+        "On_Street": "Boundbrook Ave",
+        "At_Street": "Ridge Ave",
+        "City": "Trevose",
+        "State": "PA",
+        "Zip": "19053",
+        "County": "Bucks",
+        "Stop_ID": "90322",
+        "Latitude": "40.140084",
+        "Longitude": "-74.982906"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.962328,
+          40.146798
+        ]
+      },
+      "properties": {
+        "name": "West Trenton Line",
+        "Line_Name": "West Trenton Line",
+        "Station_Na": "Neshaminy Falls",
+        "Street_Add": "4255 E. Bristol Rd",
+        "On_Street": "E. Bristol Rd",
+        "At_Street": "Grove Ave",
+        "City": "Trevose",
+        "State": "PA",
+        "Zip": "19053",
+        "County": "Bucks",
+        "Stop_ID": "90323",
+        "Latitude": "40.146798",
+        "Longitude": "-74.962328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.912752,
+          40.160757
+        ]
+      },
+      "properties": {
+        "name": "West Trenton Line",
+        "Line_Name": "West Trenton Line",
+        "Station_Na": "Langhorne",
+        "Street_Add": "137 Comly Ave",
+        "On_Street": "Comly Ave",
+        "At_Street": "Bellevue Ave",
+        "City": "Langhorne",
+        "State": "PA",
+        "Zip": "19047",
+        "County": "Bucks",
+        "Stop_ID": "90324",
+        "Latitude": "40.160757",
+        "Longitude": "-74.912752"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.890857,
+          40.190859
+        ]
+      },
+      "properties": {
+        "name": "West Trenton Line",
+        "Line_Name": "West Trenton Line",
+        "Station_Na": "Woodbourne",
+        "Street_Add": "903 Woodbourne Rd",
+        "On_Street": "Woodbourne Rd",
+        "At_Street": "Butternut Ln",
+        "City": "Langhorne",
+        "State": "PA",
+        "Zip": "19047",
+        "County": "Bucks",
+        "Stop_ID": "90325",
+        "Latitude": "40.190859",
+        "Longitude": "-74.890857"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.830946,
+          40.235056
+        ]
+      },
+      "properties": {
+        "name": "West Trenton Line",
+        "Line_Name": "West Trenton Line",
+        "Station_Na": "Yardley",
+        "Street_Add": "13 Reading Ave",
+        "On_Street": "Reading Ave",
+        "At_Street": "S. Main St",
+        "City": "Morrisville",
+        "State": "PA",
+        "Zip": "19067",
+        "County": "Bucks",
+        "Stop_ID": "90326",
+        "Latitude": "40.235056",
+        "Longitude": "-74.830946"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.815506,
+          40.257309
+        ]
+      },
+      "properties": {
+        "name": "West Trenton Line",
+        "Line_Name": "West Trenton Line",
+        "Station_Na": "West Trenton",
+        "Street_Add": "3 Railroad Ave",
+        "On_Street": "Railroad Ave",
+        "At_Street": "Grand Ave",
+        "City": "Trenton",
+        "State": "NJ",
+        "Zip": "08628",
+        "County": "Trenton",
+        "Stop_ID": "90327",
+        "Latitude": "40.257309",
+        "Longitude": "-74.815506"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.762733,
+          39.992691
+        ]
+      },
+      "properties": {
+        "name": "Paoli Thorndale Line",
+        "Line_Name": "Paoli Thorndale Line",
+        "Station_Na": "Thorndale",
+        "Street_Add": "201 S. Bailey Rd",
+        "On_Street": "S. Bailey Rd",
+        "At_Street": "Hazelwood Ave",
+        "City": "Thorndale",
+        "State": "PA",
+        "Zip": "19372",
+        "County": "Chester",
+        "Stop_ID": "90501",
+        "Latitude": "39.992691",
+        "Longitude": "-75.762733"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.710499,
+          40.002079
+        ]
+      },
+      "properties": {
+        "name": "Paoli Thorndale Line",
+        "Line_Name": "Paoli Thorndale Line",
+        "Station_Na": "Downingtown",
+        "Street_Add": "159 Viaduct Ave",
+        "On_Street": "Viaduct Ave",
+        "At_Street": "St. Joseph Ln",
+        "City": "Downingtown",
+        "State": "PA",
+        "Zip": "19335",
+        "County": "Chester",
+        "Stop_ID": "90502",
+        "Latitude": "40.002079",
+        "Longitude": "-75.710499"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.638359,
+          40.014744
+        ]
+      },
+      "properties": {
+        "name": "Paoli Thorndale Line",
+        "Line_Name": "Paoli Thorndale Line",
+        "Station_Na": "Whitford",
+        "Street_Add": "401 Spackman Ln",
+        "On_Street": "Spackman Ln",
+        "At_Street": "S. Whitford Rd",
+        "City": "Exton",
+        "State": "PA",
+        "Zip": "19341",
+        "County": "Chester",
+        "Stop_ID": "90503",
+        "Latitude": "40.014744",
+        "Longitude": "-75.638359"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.515581,
+          40.036439
+        ]
+      },
+      "properties": {
+        "name": "Paoli Thorndale Line",
+        "Line_Name": "Paoli Thorndale Line",
+        "Station_Na": "Malvern",
+        "Street_Add": "15 N. Warren Ave (near King St)",
+        "On_Street": "N. Warren Ave",
+        "At_Street": "King St",
+        "City": "Malvern",
+        "State": "PA",
+        "Zip": "19355",
+        "County": "Chester",
+        "Stop_ID": "90505",
+        "Latitude": "40.036439",
+        "Longitude": "-75.515581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.48373,
+          40.042959
+        ]
+      },
+      "properties": {
+        "name": "Paoli Thorndale Line",
+        "Line_Name": "Paoli Thorndale Line",
+        "Station_Na": "Paoli",
+        "Street_Add": "13 N. Valley Rd (near Lincoln Highway)",
+        "On_Street": "N. Valley Rd",
+        "At_Street": "Lincoln Hwy",
+        "City": "Paoli",
+        "State": "PA",
+        "Zip": "19301",
+        "County": "Chester",
+        "Stop_ID": "90506",
+        "Latitude": "40.042959",
+        "Longitude": "-75.48373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.460646,
+          40.04295
+        ]
+      },
+      "properties": {
+        "name": "Paoli Thorndale Line",
+        "Line_Name": "Paoli Thorndale Line",
+        "Station_Na": "Daylesford",
+        "Street_Add": "1301 Lancaster Ave",
+        "On_Street": "Lancaster Ave",
+        "At_Street": "Glenn Ave",
+        "City": "Berwyn",
+        "State": "PA",
+        "Zip": "19312",
+        "County": "Chester",
+        "Stop_ID": "90507",
+        "Latitude": "40.04295",
+        "Longitude": "-75.460646"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.442473,
+          40.048088
+        ]
+      },
+      "properties": {
+        "name": "Paoli Thorndale Line",
+        "Line_Name": "Paoli Thorndale Line",
+        "Station_Na": "Berwyn",
+        "Street_Add": "654 E. Lancaster Ave",
+        "On_Street": "E. Lancaster Ave",
+        "At_Street": "Main Ave",
+        "City": "Berwyn",
+        "State": "PA",
+        "Zip": "19312",
+        "County": "Chester",
+        "Stop_ID": "90508",
+        "Latitude": "40.048088",
+        "Longitude": "-75.442473"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.403766,
+          40.049695
+        ]
+      },
+      "properties": {
+        "name": "Paoli Thorndale Line",
+        "Line_Name": "Paoli Thorndale Line",
+        "Station_Na": "Strafford",
+        "Street_Add": "97 Old Eagle School Rd",
+        "On_Street": "Old Eagle School Rd",
+        "At_Street": "Strafford Ave",
+        "City": "Wayne",
+        "State": "PA",
+        "Zip": "19087",
+        "County": "Chester",
+        "Stop_ID": "90510",
+        "Latitude": "40.049695",
+        "Longitude": "-75.403766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.387329,
+          40.045862
+        ]
+      },
+      "properties": {
+        "name": "Paoli Thorndale Line",
+        "Line_Name": "Paoli Thorndale Line",
+        "Station_Na": "Wayne",
+        "Street_Add": "145 N. Wayne Ave",
+        "On_Street": "N. Wayne Ave",
+        "At_Street": "Station Rd",
+        "City": "Wayne",
+        "State": "PA",
+        "Zip": "19087",
+        "County": "Delaware",
+        "Stop_ID": "90511",
+        "Latitude": "40.045862",
+        "Longitude": "-75.387329"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.359415,
+          40.044734
+        ]
+      },
+      "properties": {
+        "name": "Paoli Thorndale Line",
+        "Line_Name": "Paoli Thorndale Line",
+        "Station_Na": "Radnor",
+        "Street_Add": "291 King of Prussia Rd",
+        "On_Street": "King of Prussia Rd",
+        "At_Street": "Randnor Chester Rd",
+        "City": "Wayne",
+        "State": "PA",
+        "Zip": "19087",
+        "County": "Delaware",
+        "Stop_ID": "90513",
+        "Latitude": "40.044734",
+        "Longitude": "-75.359415"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.327273,
+          40.028266
+        ]
+      },
+      "properties": {
+        "name": "Paoli Thorndale Line",
+        "Line_Name": "Paoli Thorndale Line",
+        "Station_Na": "Rosemont",
+        "Street_Add": "43 Airdale Rd",
+        "On_Street": "Airdale Rd",
+        "At_Street": "Montrose Ave",
+        "City": "Bryn Mawr",
+        "State": "PA",
+        "Zip": "19010",
+        "County": "Philadelphia",
+        "Stop_ID": "90515",
+        "Latitude": "40.028266",
+        "Longitude": "-75.327273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.315946,
+          40.021955
+        ]
+      },
+      "properties": {
+        "name": "Paoli Thorndale Line",
+        "Line_Name": "Paoli Thorndale Line",
+        "Station_Na": "Bryn Mawr",
+        "Street_Add": "54 N. Bryn Mawr Ave",
+        "On_Street": "N. Bryn Mawr Ave",
+        "At_Street": "Morris Ave",
+        "City": "Bryn Mawr",
+        "State": "PA",
+        "Zip": "19010",
+        "County": "Montgomery",
+        "Stop_ID": "90516",
+        "Latitude": "40.021955",
+        "Longitude": "-75.315946"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.273113,
+          40.002831
+        ]
+      },
+      "properties": {
+        "name": "Paoli Thorndale Line",
+        "Line_Name": "Paoli Thorndale Line",
+        "Station_Na": "Wynnewood",
+        "Street_Add": "67 E. Wynnewood Rd",
+        "On_Street": "E. Wynnewood Rd",
+        "At_Street": "Penn Rd",
+        "City": "Wynnewood",
+        "State": "PA",
+        "Zip": "19096",
+        "County": "Montgomery",
+        "Stop_ID": "90519",
+        "Latitude": "40.002831",
+        "Longitude": "-75.273113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.261538,
+          40.004869
+        ]
+      },
+      "properties": {
+        "name": "Paoli Thorndale Line",
+        "Line_Name": "Paoli Thorndale Line",
+        "Station_Na": "Narbeth",
+        "Street_Add": "211 Elmwood Ave",
+        "On_Street": "Elmwood Ave",
+        "At_Street": "N. Narberth Ave",
+        "City": "Narbeth",
+        "State": "PA",
+        "Zip": "19072",
+        "County": "Montgomery",
+        "Stop_ID": "90520",
+        "Latitude": "40.004869",
+        "Longitude": "-75.261538"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.251446,
+          39.997552
+        ]
+      },
+      "properties": {
+        "name": "Paoli Thorndale Line",
+        "Line_Name": "Paoli Thorndale Line",
+        "Station_Na": "Merion",
+        "Street_Add": "293 Idris Rd",
+        "On_Street": "Idris Rd",
+        "At_Street": "Hazelhurst Rd",
+        "City": "Merion Station",
+        "State": "PA",
+        "Zip": "19066",
+        "County": "Montgomery",
+        "Stop_ID": "90521",
+        "Latitude": "39.997552",
+        "Longitude": "-75.251446"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.24986,
+          39.989951
+        ]
+      },
+      "properties": {
+        "name": "Paoli Thorndale Line",
+        "Line_Name": "Paoli Thorndale Line",
+        "Station_Na": "Overbrook",
+        "Street_Add": "2195 N. 63rd St (off City Ave)",
+        "On_Street": "63rd St",
+        "At_Street": "City Ave",
+        "City": "Merion Station",
+        "State": "PA",
+        "Zip": "19066",
+        "County": "Philadelphia",
+        "Stop_ID": "90522",
+        "Latitude": "39.989951",
+        "Longitude": "-75.24986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13482,
+          40.040689
+        ]
+      },
+      "properties": {
+        "name": "Joint",
+        "Line_Name": "Joint",
+        "Station_Na": "Fern Rock T.C.",
+        "Street_Add": "900 Nedro Ave",
+        "On_Street": "Nedro Ave",
+        "At_Street": "10th St",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19141",
+        "County": "Philadelphia",
+        "Stop_ID": "90407",
+        "Latitude": "40.040689",
+        "Longitude": "-75.13482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13754,
+          40.092712
+        ]
+      },
+      "properties": {
+        "name": "Joint",
+        "Line_Name": "Joint",
+        "Station_Na": "Jenkintown-Wyncote",
+        "Street_Add": "2 Greenwood Ave",
+        "On_Street": "Greenwood Ave",
+        "At_Street": "Glenside Ave",
+        "City": "Jenkintown",
+        "State": "PA",
+        "Zip": "19046",
+        "County": "Montogomery",
+        "Stop_ID": "90410",
+        "Latitude": "40.092712",
+        "Longitude": "-75.13754"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.153692,
+          40.101346
+        ]
+      },
+      "properties": {
+        "name": "Joint",
+        "Line_Name": "Joint",
+        "Station_Na": "Glenside",
+        "Street_Add": "49 W. Glenside Ave",
+        "On_Street": "W. Glenside Ave",
+        "At_Street": "S. Easton Rd",
+        "City": "Glenside",
+        "State": "PA",
+        "Zip": "19038",
+        "County": "Montogomery",
+        "Stop_ID": "90411",
+        "Latitude": "40.101346",
+        "Longitude": "-75.153692"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.169437,
+          40.112042
+        ]
+      },
+      "properties": {
+        "name": "Lansdale Doylestown Line",
+        "Line_Name": "Lansdale Doylestown Line",
+        "Station_Na": "North Hills",
+        "Street_Add": "85 Station Ave",
+        "On_Street": "Station Ave",
+        "At_Street": "N. Hills Ave",
+        "City": "Glenside",
+        "State": "PA",
+        "Zip": "19038",
+        "County": "Montgomery",
+        "Stop_ID": "90523",
+        "Latitude": "40.112042",
+        "Longitude": "-75.169437"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.183854,
+          40.11821
+        ]
+      },
+      "properties": {
+        "name": "Lansdale Doylestown Line",
+        "Line_Name": "Lansdale Doylestown Line",
+        "Station_Na": "Oreland",
+        "Street_Add": "1502 Bruce Rd",
+        "On_Street": "Bruce Rd",
+        "At_Street": "Bridge St",
+        "City": "Oreland",
+        "State": "PA",
+        "Zip": "19075",
+        "County": "Montgomery",
+        "Stop_ID": "90524",
+        "Latitude": "40.11821",
+        "Longitude": "-75.183854"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.211589,
+          40.135337
+        ]
+      },
+      "properties": {
+        "name": "Lansdale Doylestown Line",
+        "Line_Name": "Lansdale Doylestown Line",
+        "Station_Na": "Fort Washington",
+        "Street_Add": "7299 Station Ave",
+        "On_Street": "Station Ave",
+        "At_Street": "S. Bethlehem Pike",
+        "City": "Fort Washington",
+        "State": "PA",
+        "Zip": "19034",
+        "County": "Montgomery",
+        "Stop_ID": "90525",
+        "Latitude": "40.135337",
+        "Longitude": "-75.211589"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.224335,
+          40.152811
+        ]
+      },
+      "properties": {
+        "name": "Lansdale Doylestown Line",
+        "Line_Name": "Lansdale Doylestown Line",
+        "Station_Na": "Ambler",
+        "Street_Add": "35 W. Butler Ave",
+        "On_Street": "Butler Ave",
+        "At_Street": "W. Maple St",
+        "City": "Ambler",
+        "State": "PA",
+        "Zip": "19002",
+        "County": "Montgomery",
+        "Stop_ID": "90526",
+        "Latitude": "40.152811",
+        "Longitude": "-75.224335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.243961,
+          40.169724
+        ]
+      },
+      "properties": {
+        "name": "Lansdale Doylestown Line",
+        "Line_Name": "Lansdale Doylestown Line",
+        "Station_Na": "Penllyn",
+        "Street_Add": "908 Pershing Rd",
+        "On_Street": "Pershing Rd",
+        "At_Street": "Old Penllyn Pike",
+        "City": "Blue Bell",
+        "State": "PA",
+        "Zip": "19422",
+        "County": "Montgomery",
+        "Stop_ID": "90527",
+        "Latitude": "40.169724",
+        "Longitude": "-75.243961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.256914,
+          40.184801
+        ]
+      },
+      "properties": {
+        "name": "Lansdale Doylestown Line",
+        "Line_Name": "Lansdale Doylestown Line",
+        "Station_Na": "Gwynedd Valley",
+        "Street_Add": "521 Plymouth Rd",
+        "On_Street": "Plymouth Rd",
+        "At_Street": "Railroad Crossing",
+        "City": "Ambler",
+        "State": "PA",
+        "Zip": "19002",
+        "County": "Montgomery",
+        "Stop_ID": "90528",
+        "Latitude": "40.184801",
+        "Longitude": "-75.256914"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.277252,
+          40.214353
+        ]
+      },
+      "properties": {
+        "name": "Lansdale Doylestown Line",
+        "Line_Name": "Lansdale Doylestown Line",
+        "Station_Na": "North Wales",
+        "Street_Add": "605 Beaver St",
+        "On_Street": "Beaver St",
+        "At_Street": "Wissahickon Ave",
+        "City": "North Wales",
+        "State": "PA",
+        "Zip": "19454",
+        "County": "Montgomery",
+        "Stop_ID": "90529",
+        "Latitude": "40.214353",
+        "Longitude": "-75.277252"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.281766,
+          40.230303
+        ]
+      },
+      "properties": {
+        "name": "Lansdale Doylestown Line",
+        "Line_Name": "Lansdale Doylestown Line",
+        "Station_Na": "Pennbrook",
+        "Street_Add": "1114 Church Rd",
+        "On_Street": "Church Rd",
+        "At_Street": "Pennbrook Pkwy",
+        "City": "Landsdale",
+        "State": "PA",
+        "Zip": "19446",
+        "County": "Montgomery",
+        "Stop_ID": "90530",
+        "Latitude": "40.230303",
+        "Longitude": "-75.281766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.285231,
+          40.242908
+        ]
+      },
+      "properties": {
+        "name": "Lansdale Doylestown Line",
+        "Line_Name": "Lansdale Doylestown Line",
+        "Station_Na": "Lansdale",
+        "Street_Add": "80 W. Main St",
+        "On_Street": "W. Main St",
+        "At_Street": "Walnut St",
+        "City": "Landsdale",
+        "State": "PA",
+        "Zip": "19446",
+        "County": "Montgomery",
+        "Stop_ID": "90531",
+        "Latitude": "40.242908",
+        "Longitude": "-75.285231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.266311,
+          40.259504
+        ]
+      },
+      "properties": {
+        "name": "Lansdale Doylestown Line",
+        "Line_Name": "Lansdale Doylestown Line",
+        "Station_Na": "Fortuna",
+        "Street_Add": "101 Cowpath Rd",
+        "On_Street": "Cowpath Rd",
+        "At_Street": "Walnut St",
+        "City": "Landsdale",
+        "State": "PA",
+        "Zip": "19446",
+        "County": "Montgomery",
+        "Stop_ID": "90532",
+        "Latitude": "40.259504",
+        "Longitude": "-75.266311"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.254107,
+          40.268479
+        ]
+      },
+      "properties": {
+        "name": "Lansdale Doylestown Line",
+        "Line_Name": "Lansdale Doylestown Line",
+        "Station_Na": "Colmar",
+        "Street_Add": "Bethlehem Pk & Walnut St",
+        "On_Street": "Bethlehem Pike",
+        "At_Street": "Walnut St",
+        "City": "Colmar",
+        "State": "PA",
+        "Zip": "18915",
+        "County": "Montgomery",
+        "Stop_ID": "90533",
+        "Latitude": "40.268479",
+        "Longitude": "-75.254107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.210193,
+          40.287716
+        ]
+      },
+      "properties": {
+        "name": "Lansdale Doylestown Line",
+        "Line_Name": "Lansdale Doylestown Line",
+        "Station_Na": "Chalfont",
+        "Street_Add": "13 Sunset Ave",
+        "On_Street": "Sunset Ave",
+        "At_Street": "Main St",
+        "City": "Chalfont",
+        "State": "PA",
+        "Zip": "18914",
+        "County": "Bucks",
+        "Stop_ID": "90535",
+        "Latitude": "40.287716",
+        "Longitude": "-75.210193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.179665,
+          40.297484
+        ]
+      },
+      "properties": {
+        "name": "Lansdale Doylestown Line",
+        "Line_Name": "Lansdale Doylestown Line",
+        "Station_Na": "New Britain",
+        "Street_Add": "Tamenend & Matthews Aves",
+        "On_Street": "S. Tamenend Ave",
+        "At_Street": "Mathews Ave",
+        "City": "Doylestown",
+        "State": "PA",
+        "Zip": "18901",
+        "County": "Bucks",
+        "Stop_ID": "90536",
+        "Latitude": "40.297484",
+        "Longitude": "-75.179665"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.161795,
+          40.297241
+        ]
+      },
+      "properties": {
+        "name": "Lansdale Doylestown Line",
+        "Line_Name": "Lansdale Doylestown Line",
+        "Station_Na": "Delaware Valley College",
+        "Street_Add": "700 E. Butler Ave (on campus)",
+        "On_Street": "E. Butler Ave",
+        "At_Street": "Del Val College Campus",
+        "City": "Doylestown",
+        "State": "PA",
+        "Zip": "18901",
+        "County": "Bucks",
+        "Stop_ID": "90537",
+        "Latitude": "40.297241",
+        "Longitude": "-75.161795"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.130684,
+          40.306198
+        ]
+      },
+      "properties": {
+        "name": "Lansdale Doylestown Line",
+        "Line_Name": "Lansdale Doylestown Line",
+        "Station_Na": "Doylestown",
+        "Street_Add": "130 S. Clinton St",
+        "On_Street": "S. Clinton St",
+        "At_Street": "Bridge st",
+        "City": "Doylestown",
+        "State": "PA",
+        "Zip": "18901",
+        "County": "Bucks",
+        "Stop_ID": "90538",
+        "Latitude": "40.306198",
+        "Longitude": "-75.130684"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.246755,
+          40.273883
+        ]
+      },
+      "properties": {
+        "name": "Lansdale Doylestown Line",
+        "Line_Name": "Lansdale Doylestown Line",
+        "Station_Na": "Link Belt",
+        "Street_Add": "3367 E. Walnut St",
+        "On_Street": "W. Walnut St",
+        "At_Street": "County Line Rd",
+        "City": "Chalfont",
+        "State": "PA",
+        "Zip": "18915",
+        "County": "Montgomery",
+        "Stop_ID": "90534",
+        "Latitude": "40.273883",
+        "Longitude": "-75.246755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.231841,
+          40.006837
+        ]
+      },
+      "properties": {
+        "name": "Cynwyd Line",
+        "Line_Name": "Cynwyd Line",
+        "Station_Na": "Cynwyd",
+        "Street_Add": "1 E. Montgomery Ave",
+        "On_Street": "Montgomery Ave",
+        "At_Street": "Conshohocken State Rd",
+        "City": "Bala Cynwyd",
+        "State": "PA",
+        "Zip": "19004",
+        "County": "Philadelphia",
+        "Stop_ID": "90001",
+        "Latitude": "40.006837",
+        "Longitude": "-75.231841"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.227739,
+          40.001038
+        ]
+      },
+      "properties": {
+        "name": "Cynwyd Line",
+        "Line_Name": "Cynwyd Line",
+        "Station_Na": "Bala",
+        "Street_Add": "Bala & City Ave",
+        "On_Street": "W. City Ave",
+        "At_Street": "Bala Ave",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19131",
+        "County": "Philadelphia",
+        "Stop_ID": "90002",
+        "Latitude": "40.001038",
+        "Longitude": "-75.227739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.225648,
+          39.990207
+        ]
+      },
+      "properties": {
+        "name": "Cynwyd Line",
+        "Line_Name": "Cynwyd Line",
+        "Station_Na": "Wynnefield Avenue",
+        "Street_Add": "5024  Wynnfield Ave",
+        "On_Street": "Wynnfield Ave",
+        "At_Street": "Bryn Mawr Ave",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19131",
+        "County": "Philadelphia",
+        "Stop_ID": "90003",
+        "Latitude": "39.990207",
+        "Longitude": "-75.225648"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.153716,
+          39.991887
+        ]
+      },
+      "properties": {
+        "name": "Joint",
+        "Line_Name": "Joint",
+        "Station_Na": "North Broad",
+        "Street_Add": "2693 N. Broad St (near Lehigh Ave)",
+        "On_Street": "N. Broad St",
+        "At_Street": "Lehigh Ave",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19133",
+        "County": "Philadelphia",
+        "Stop_ID": "90008",
+        "Latitude": "39.991887",
+        "Longitude": "-75.153716"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.165426,
+          40.003859
+        ]
+      },
+      "properties": {
+        "name": "Manayunk Norristown Line",
+        "Line_Name": "Manayunk Norristown Line",
+        "Station_Na": "Allegheny",
+        "Street_Add": "3235 N. 22nd St",
+        "On_Street": "22nd St",
+        "At_Street": "Allegheny Ave",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19140",
+        "County": "Philadelphia",
+        "Stop_ID": "90218",
+        "Latitude": "40.003859",
+        "Longitude": "-75.165426"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.192041,
+          40.011406
+        ]
+      },
+      "properties": {
+        "name": "Manayunk Norristown Line",
+        "Line_Name": "Manayunk Norristown Line",
+        "Station_Na": "East Falls",
+        "Street_Add": "3610 Midvale Ave",
+        "On_Street": "Midvale Ave",
+        "At_Street": "Cresson St",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19129",
+        "County": "Philadelphia",
+        "Stop_ID": "90219",
+        "Latitude": "40.011406",
+        "Longitude": "-75.192041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.210207,
+          40.016567
+        ]
+      },
+      "properties": {
+        "name": "Manayunk Norristown Line",
+        "Line_Name": "Manayunk Norristown Line",
+        "Station_Na": "Wissahickon",
+        "Street_Add": "5100 Rochelle Ave",
+        "On_Street": "Rochelle Ave",
+        "At_Street": "Sumac St",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19128",
+        "County": "Philadelphia",
+        "Stop_ID": "90220",
+        "Latitude": "40.016567",
+        "Longitude": "-75.210207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.224668,
+          40.026669
+        ]
+      },
+      "properties": {
+        "name": "Manayunk Norristown Line",
+        "Line_Name": "Manayunk Norristown Line",
+        "Station_Na": "Manayunk",
+        "Street_Add": "117 Carson St",
+        "On_Street": "Carson St",
+        "At_Street": "Cresson St",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19127",
+        "County": "Philadelphia",
+        "Stop_ID": "90221",
+        "Latitude": "40.026669",
+        "Longitude": "-75.224668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.23542,
+          40.03403
+        ]
+      },
+      "properties": {
+        "name": "Manayunk Norristown Line",
+        "Line_Name": "Manayunk Norristown Line",
+        "Station_Na": "Ivy Ridge",
+        "Street_Add": "4910 Umbria St",
+        "On_Street": "Umbria St",
+        "At_Street": "Parker Ave",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19128",
+        "County": "Philadelphia",
+        "Stop_ID": "90222",
+        "Latitude": "40.03403",
+        "Longitude": "-75.23542"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.266396,
+          40.058529
+        ]
+      },
+      "properties": {
+        "name": "Manayunk Norristown Line",
+        "Line_Name": "Manayunk Norristown Line",
+        "Station_Na": "Miquon",
+        "Street_Add": "1096 River Rd",
+        "On_Street": "River Rd",
+        "At_Street": "Manor Rd",
+        "City": "Conshohocken",
+        "State": "PA",
+        "Zip": "19428",
+        "County": "Montgomery",
+        "Stop_ID": "90223",
+        "Latitude": "40.058529",
+        "Longitude": "-75.266396"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.286083,
+          40.074216
+        ]
+      },
+      "properties": {
+        "name": "Manayunk Norristown Line",
+        "Line_Name": "Manayunk Norristown Line",
+        "Station_Na": "Spring Mill",
+        "Street_Add": "98 Station Ave (near Hector St)",
+        "On_Street": "Station Ave",
+        "At_Street": "Hector St",
+        "City": "Conshohocken",
+        "State": "PA",
+        "Zip": "19428",
+        "County": "Montgomery",
+        "Stop_ID": "90224",
+        "Latitude": "40.074216",
+        "Longitude": "-75.286083"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.344044,
+          40.112675
+        ]
+      },
+      "properties": {
+        "name": "Manayunk Norristown Line",
+        "Line_Name": "Manayunk Norristown Line",
+        "Station_Na": "Norristown T.C.",
+        "Street_Add": "Lafayette St & Swede St",
+        "On_Street": "E. Lafayette St",
+        "At_Street": "Sweede St",
+        "City": "Norristown",
+        "State": "PA",
+        "Zip": "19401",
+        "County": "Montgomery",
+        "Stop_ID": "90226",
+        "Latitude": "40.112675",
+        "Longitude": "-75.344044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.348792,
+          40.116949
+        ]
+      },
+      "properties": {
+        "name": "Manayunk Norristown Line",
+        "Line_Name": "Manayunk Norristown Line",
+        "Station_Na": "Main Street",
+        "Street_Add": "305 W. Main St at Markley St",
+        "On_Street": "W. Main St",
+        "At_Street": "Markley St",
+        "City": "Norristown",
+        "State": "PA",
+        "Zip": "19401",
+        "County": "Montgomery",
+        "Stop_ID": "90227",
+        "Latitude": "40.116949",
+        "Longitude": "-75.348792"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.345086,
+          40.120847
+        ]
+      },
+      "properties": {
+        "name": "Manayunk Norristown Line",
+        "Line_Name": "Manayunk Norristown Line",
+        "Station_Na": "Elm Street",
+        "Street_Add": "793 Markley St",
+        "On_Street": "Markley St",
+        "At_Street": "W. Elm St",
+        "City": "Norristown",
+        "State": "PA",
+        "Zip": "19401",
+        "County": "Montgomery",
+        "Stop_ID": "90228",
+        "Latitude": "40.120847",
+        "Longitude": "-75.345086"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.85482,
+          40.104939
+        ]
+      },
+      "properties": {
+        "name": "Trenton Line",
+        "Line_Name": "Trenton Line",
+        "Station_Na": "Bristol",
+        "Street_Add": "790 Washington St",
+        "On_Street": "Washington St",
+        "At_Street": "Prospect St",
+        "City": "Bristol",
+        "State": "PA",
+        "Zip": "19007",
+        "County": "Bucks",
+        "Stop_ID": "90703",
+        "Latitude": "40.104939",
+        "Longitude": "-74.85482"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.906808,
+          40.093554
+        ]
+      },
+      "properties": {
+        "name": "Trenton Line",
+        "Line_Name": "Trenton Line",
+        "Station_Na": "Croydon",
+        "Street_Add": "751 Bristol Pike",
+        "On_Street": "Bristol Pike",
+        "At_Street": "Newportville Rd",
+        "City": "Croydon",
+        "State": "PA",
+        "Zip": "19021",
+        "County": "Bucks",
+        "Stop_ID": "90704",
+        "Latitude": "40.093554",
+        "Longitude": "-74.906808"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.933731,
+          40.082958
+        ]
+      },
+      "properties": {
+        "name": "Trenton Line",
+        "Line_Name": "Trenton Line",
+        "Station_Na": "Eddington",
+        "Street_Add": "1099 Street Rd",
+        "On_Street": "Street Rd",
+        "At_Street": "Dunks Ferry Rd",
+        "City": "Bensalem",
+        "State": "PA",
+        "Zip": "19020",
+        "County": "Bucks",
+        "Stop_ID": "90705",
+        "Latitude": "40.082958",
+        "Longitude": "-74.933731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.952156,
+          40.071845
+        ]
+      },
+      "properties": {
+        "name": "Trenton Line",
+        "Line_Name": "Trenton Line",
+        "Station_Na": "Cornwells Heights",
+        "Street_Add": "799 Station Ave (off I-95)",
+        "On_Street": "Station Ave",
+        "At_Street": "I-95",
+        "City": "Bensalem",
+        "State": "PA",
+        "Zip": "19020",
+        "County": "Bucks",
+        "Stop_ID": "90706",
+        "Latitude": "40.071845",
+        "Longitude": "-74.952156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.753869,
+          40.218523
+        ]
+      },
+      "properties": {
+        "name": "Trenton Line",
+        "Line_Name": "Trenton Line",
+        "Station_Na": "Trenton Transit Center",
+        "Street_Add": "83 S. Clinton Ave",
+        "On_Street": "S. Clinton Ave",
+        "At_Street": "Raoul Wallenberg Ave",
+        "City": "Trenton",
+        "State": "NJ",
+        "Zip": "08609",
+        "County": "Mercer",
+        "Stop_ID": "90701",
+        "Latitude": "40.218523",
+        "Longitude": "-74.753869"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.984499,
+          40.054404
+        ]
+      },
+      "properties": {
+        "name": "Trenton Line",
+        "Line_Name": "Trenton Line",
+        "Station_Na": "Torresdale",
+        "Street_Add": "9648 James St",
+        "On_Street": "James St",
+        "At_Street": "Grant Ave",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19114",
+        "County": "Philadelphia",
+        "Stop_ID": "90707",
+        "Latitude": "40.054404",
+        "Longitude": "-74.984499"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.039026,
+          40.023238
+        ]
+      },
+      "properties": {
+        "name": "Trenton Line",
+        "Line_Name": "Trenton Line",
+        "Station_Na": "Tacony",
+        "Street_Add": "4938 Disston St",
+        "On_Street": "Disston St",
+        "At_Street": "Keystone St",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19135",
+        "County": "Philadelphia",
+        "Stop_ID": "90709",
+        "Latitude": "40.023238",
+        "Longitude": "-75.039026"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.167471,
+          39.95399
+        ]
+      },
+      "properties": {
+        "name": "Joint",
+        "Line_Name": "Joint",
+        "Station_Na": "Suburban Station",
+        "Street_Add": "16th St & JFK Blvd",
+        "On_Street": "16th St",
+        "At_Street": "JFK Blvd",
+        "City": "Philadaelphia",
+        "State": "PA",
+        "Zip": "19103",
+        "County": "Philadelphia",
+        "Stop_ID": "90005",
+        "Latitude": "39.95399",
+        "Longitude": "-75.167471"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.158372,
+          39.952641
+        ]
+      },
+      "properties": {
+        "name": "Joint",
+        "Line_Name": "Joint",
+        "Station_Na": "Jefferson",
+        "Street_Add": "Market St Between 10th & 12th Sts",
+        "On_Street": "11th St",
+        "At_Street": "Market St",
+        "City": "Philadaelphia",
+        "State": "PA",
+        "Zip": "19107",
+        "County": "Philadelphia",
+        "Stop_ID": "90006",
+        "Latitude": "39.952641",
+        "Longitude": "-75.158372"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.171922,
+          40.037838
+        ]
+      },
+      "properties": {
+        "name": "Chestnut Hill East Line",
+        "Line_Name": "Chestnut Hill East Line",
+        "Station_Na": "Germantown",
+        "Street_Add": "150 E. Chelten Ave",
+        "On_Street": "E. Chelton Ave",
+        "At_Street": "Bayton St",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19144",
+        "County": "Philadelphia",
+        "Stop_ID": "90713",
+        "Latitude": "40.037838",
+        "Longitude": "-75.171922"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.171557,
+          40.051093
+        ]
+      },
+      "properties": {
+        "name": "Chestnut Hill East Line",
+        "Line_Name": "Chestnut Hill East Line",
+        "Station_Na": "Washington Lane",
+        "Street_Add": "823 E. Washington Ln",
+        "On_Street": "E. Washington Ln",
+        "At_Street": "Clearview St",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19138",
+        "County": "Philadelphia",
+        "Stop_ID": "90714",
+        "Latitude": "40.051093",
+        "Longitude": "-75.171557"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.178813,
+          40.060548
+        ]
+      },
+      "properties": {
+        "name": "Chestnut Hill East Line",
+        "Line_Name": "Chestnut Hill East Line",
+        "Station_Na": "Stenton",
+        "Street_Add": "6797 Blakemore St",
+        "On_Street": "Blakemore St",
+        "At_Street": "E. Vernon Rd",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19119",
+        "County": "Philadelphia",
+        "Stop_ID": "90715",
+        "Latitude": "40.060548",
+        "Longitude": "-75.178813"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.191014,
+          40.065231
+        ]
+      },
+      "properties": {
+        "name": "Chestnut Hill East Line",
+        "Line_Name": "Chestnut Hill East Line",
+        "Station_Na": "Mount Airy",
+        "Street_Add": "149 E. Gowen Ave",
+        "On_Street": "E. Gowen Ave",
+        "At_Street": "Devon St",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19119",
+        "County": "Philadelphia",
+        "Stop_ID": "90717",
+        "Latitude": "40.065231",
+        "Longitude": "-75.191014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.196776,
+          40.073466
+        ]
+      },
+      "properties": {
+        "name": "Chestnut Hill East Line",
+        "Line_Name": "Chestnut Hill East Line",
+        "Station_Na": "Wyndmoor",
+        "Street_Add": "246 Wyndmoor St",
+        "On_Street": "Wyndmoor St",
+        "At_Street": "E. Willow Grove Ave",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19118",
+        "County": "Philadelphia",
+        "Stop_ID": "90718",
+        "Latitude": "40.073466",
+        "Longitude": "-75.196776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.201846,
+          40.077466
+        ]
+      },
+      "properties": {
+        "name": "Chestnut Hill East Line",
+        "Line_Name": "Chestnut Hill East Line",
+        "Station_Na": "Gravers",
+        "Street_Add": "Gravers Ln & Anderson St",
+        "On_Street": "E. Gravers Ln",
+        "At_Street": "Anderson St",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19118",
+        "County": "Philadelphia",
+        "Stop_ID": "90719",
+        "Latitude": "40.077466",
+        "Longitude": "-75.201846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.207567,
+          40.081037
+        ]
+      },
+      "properties": {
+        "name": "Chestnut Hill East Line",
+        "Line_Name": "Chestnut Hill East Line",
+        "Station_Na": "Chestnut Hill East",
+        "Street_Add": "100 E. Chestnut Hill Ave",
+        "On_Street": "E. Cheastnut Hill Ave",
+        "At_Street": "Bethlehem Pike",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19118",
+        "County": "Philadelphia",
+        "Stop_ID": "90720",
+        "Latitude": "40.081037",
+        "Longitude": "-75.207567"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.208481,
+          40.076251
+        ]
+      },
+      "properties": {
+        "name": "Chestnut Hill West Line",
+        "Line_Name": "Chestnut Hill West Line",
+        "Station_Na": "Chestnut Hill West",
+        "Street_Add": "Germantown & Evergreen Aves",
+        "On_Street": "W. Evergreen Ave",
+        "At_Street": "Germantown Ave",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19118",
+        "County": "Philadelphia",
+        "Stop_ID": "90801",
+        "Latitude": "40.076251",
+        "Longitude": "-75.208481"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.393027,
+          39.83368
+        ]
+      },
+      "properties": {
+        "name": "Wilmington Newark Line",
+        "Line_Name": "Wilmington Newark Line",
+        "Station_Na": "Highland Avenue",
+        "Street_Add": "450 Highland Ave",
+        "On_Street": "Highland Ave",
+        "At_Street": "6th St",
+        "City": "Chester",
+        "State": "PA",
+        "Zip": "19013",
+        "County": "Delaware",
+        "Stop_ID": "90206",
+        "Latitude": "39.83368",
+        "Longitude": "-75.393027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.194893,
+          40.057431
+        ]
+      },
+      "properties": {
+        "name": "Chestnut Hill West Line",
+        "Line_Name": "Chestnut Hill West Line",
+        "Station_Na": "Allen Lane",
+        "Street_Add": "Allen Ln & Cresheim St",
+        "On_Street": "W. Allen Ln",
+        "At_Street": "Cresheim Ave",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19119",
+        "County": "Philadelphia",
+        "Stop_ID": "90804",
+        "Latitude": "40.057431",
+        "Longitude": "-75.194893"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.191613,
+          40.050908
+        ]
+      },
+      "properties": {
+        "name": "Chestnut Hill West Line",
+        "Line_Name": "Chestnut Hill West Line",
+        "Station_Na": "Carpenter",
+        "Street_Add": "310 Carpenter Ln",
+        "On_Street": "Carpenter Ln",
+        "At_Street": "Emlen st",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19119",
+        "County": "Philadelphia",
+        "Stop_ID": "90805",
+        "Latitude": "40.050908",
+        "Longitude": "-75.191613"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.190192,
+          40.04241
+        ]
+      },
+      "properties": {
+        "name": "Chestnut Hill West Line",
+        "Line_Name": "Chestnut Hill West Line",
+        "Station_Na": "Upsal",
+        "Street_Add": "6505 Greene St",
+        "On_Street": "Greene St",
+        "At_Street": "W. Upsal St",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19119",
+        "County": "Philadelphia",
+        "Stop_ID": "90806",
+        "Latitude": "40.04241",
+        "Longitude": "-75.190192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.186949,
+          40.035111
+        ]
+      },
+      "properties": {
+        "name": "Chestnut Hill West Line",
+        "Line_Name": "Chestnut Hill West Line",
+        "Station_Na": "Tulpehocken",
+        "Street_Add": "333 W. Tulpehocken St",
+        "On_Street": "W. Tulpehocken St",
+        "At_Street": "Wayne Ave",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19144",
+        "County": "Philadelphia",
+        "Stop_ID": "90807",
+        "Latitude": "40.035111",
+        "Longitude": "-75.186949"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.181153,
+          40.029994
+        ]
+      },
+      "properties": {
+        "name": "Chestnut Hill West Line",
+        "Line_Name": "Chestnut Hill West Line",
+        "Station_Na": "Chelten Avenue",
+        "Street_Add": "359 W. Chelten Ave",
+        "On_Street": "W. Chelton Ave",
+        "At_Street": "Morris St",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19144",
+        "County": "Philadelphia",
+        "Stop_ID": "90808",
+        "Latitude": "40.029994",
+        "Longitude": "-75.181153"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.178083,
+          40.023157
+        ]
+      },
+      "properties": {
+        "name": "Chestnut Hill West Line",
+        "Line_Name": "Chestnut Hill West Line",
+        "Station_Na": "Queen Lane",
+        "Street_Add": "Queen Ln & Wissahickon Ave",
+        "On_Street": "Wissahickon Ave",
+        "At_Street": "Queen Ln",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19144",
+        "County": "Philadelphia",
+        "Stop_ID": "90809",
+        "Latitude": "40.023157",
+        "Longitude": "-75.178083"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15527,
+          39.997273
+        ]
+      },
+      "properties": {
+        "name": "Trenton Line",
+        "Line_Name": "Trenton Line",
+        "Station_Na": "North Philadelphia",
+        "Street_Add": "Broad St & Glenwood Ave",
+        "On_Street": "Broad St",
+        "At_Street": "Glenwood Ave",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19132",
+        "County": "Philadelphia",
+        "Stop_ID": "90810",
+        "Latitude": "39.997273",
+        "Longitude": "-75.15527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.149532,
+          39.981479
+        ]
+      },
+      "properties": {
+        "name": "Joint",
+        "Line_Name": "Joint",
+        "Station_Na": "Temple University",
+        "Street_Add": "927 W. Berks St",
+        "On_Street": "Berks St",
+        "At_Street": "10th St",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19122",
+        "County": "Philadelphia",
+        "Stop_ID": "90007",
+        "Latitude": "39.981479",
+        "Longitude": "-75.149532"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.160148,
+          40.022211
+        ]
+      },
+      "properties": {
+        "name": "Joint",
+        "Line_Name": "Joint",
+        "Station_Na": "Wayne Junction",
+        "Street_Add": "2129 Windrim Ave",
+        "On_Street": "Windrim Ave",
+        "At_Street": "Wayne Ave",
+        "City": "Philadaelphia",
+        "State": "PA",
+        "Zip": "19144",
+        "County": "Philadelphia",
+        "Stop_ID": "90009",
+        "Latitude": "40.022211",
+        "Longitude": "-75.160148"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.122842,
+          40.033205
+        ]
+      },
+      "properties": {
+        "name": "Fox Chase Line",
+        "Line_Name": "Fox Chase Line",
+        "Station_Na": "Olney",
+        "Street_Add": "5411 N. Mascher St",
+        "On_Street": "N. Mascher St",
+        "At_Street": "Tabor Rd",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19120",
+        "County": "Philadelphia",
+        "Stop_ID": "90811",
+        "Latitude": "40.033205",
+        "Longitude": "-75.122842"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.103127,
+          40.051414
+        ]
+      },
+      "properties": {
+        "name": "Fox Chase Line",
+        "Line_Name": "Fox Chase Line",
+        "Station_Na": "Lawndale",
+        "Street_Add": "105 Devereaux Ave",
+        "On_Street": "Devereaux Ave",
+        "At_Street": "Newtown Ave",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19111",
+        "County": "Philadelphia",
+        "Stop_ID": "90812",
+        "Latitude": "40.051414",
+        "Longitude": "-75.103127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.09302,
+          40.0577
+        ]
+      },
+      "properties": {
+        "name": "Fox Chase Line",
+        "Line_Name": "Fox Chase Line",
+        "Station_Na": "Cheltenham",
+        "Street_Add": "589 Hasbrook Ave",
+        "On_Street": "Hasbrook Ave",
+        "At_Street": "Old Soldiers Rd",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19111",
+        "County": "Philadelphia",
+        "Stop_ID": "90813",
+        "Latitude": "40.0577",
+        "Longitude": "-75.09302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.086836,
+          40.063562
+        ]
+      },
+      "properties": {
+        "name": "Fox Chase Line",
+        "Line_Name": "Fox Chase Line",
+        "Station_Na": "Ryers",
+        "Street_Add": "701 Cottman Ave",
+        "On_Street": "Cottman Ave",
+        "At_Street": "Hasbrook Ave",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19111",
+        "County": "Philadelphia",
+        "Stop_ID": "90814",
+        "Latitude": "40.063562",
+        "Longitude": "-75.086836"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.083508,
+          40.075874
+        ]
+      },
+      "properties": {
+        "name": "Fox Chase Line",
+        "Line_Name": "Fox Chase Line",
+        "Station_Na": "Fox Chase",
+        "Street_Add": "440 Rhawn St",
+        "On_Street": "Rahwn St",
+        "At_Street": "Elberon Ave",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19111",
+        "County": "Philadelphia",
+        "Stop_ID": "90815",
+        "Latitude": "40.075874",
+        "Longitude": "-75.083508"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.156593,
+          39.9972
+        ]
+      },
+      "properties": {
+        "name": "Chestnut Hill West Line",
+        "Line_Name": "Chestnut Hill West Line",
+        "Station_Na": "North Philadelphia",
+        "Street_Add": "1503 W. Indiana Ave",
+        "On_Street": "W. Indiana Ave",
+        "At_Street": "N. Broad St",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19132",
+        "County": "Philadelphia",
+        "Stop_ID": "90810",
+        "Latitude": "39.9972",
+        "Longitude": "-75.156593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.30864,
+          40.072115
+        ]
+      },
+      "properties": {
+        "name": "Manayunk Norristown Line",
+        "Line_Name": "Manayunk Norristown Line",
+        "Station_Na": "Conshohocken",
+        "Street_Add": "20  Washington St",
+        "On_Street": "Washington St",
+        "At_Street": "Fayette St",
+        "City": "Conshohocken",
+        "State": "PA",
+        "Zip": "19428",
+        "County": "Montgomery",
+        "Stop_ID": "90225",
+        "Latitude": "40.072115",
+        "Longitude": "-75.30864"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.153145,
+          40.114179
+        ]
+      },
+      "properties": {
+        "name": "Warminster Line",
+        "Line_Name": "Warminster Line",
+        "Station_Na": "Ardsley",
+        "Street_Add": "2620 Jenkintown Rd",
+        "On_Street": "Jenkintown Rd",
+        "At_Street": "Eagle Hill Rd",
+        "City": "Glenside",
+        "State": "PA",
+        "Zip": "19038",
+        "County": "Montogomery",
+        "Stop_ID": "90412",
+        "Latitude": "40.114179",
+        "Longitude": "-75.153145"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.124671,
+          40.104341
+        ]
+      },
+      "properties": {
+        "name": "West Trenton Line",
+        "Line_Name": "West Trenton Line",
+        "Station_Na": "Noble",
+        "Street_Add": "801 Old York Rd",
+        "On_Street": "Old York Rd",
+        "At_Street": "Baeder Rd",
+        "City": "Jenkintown",
+        "State": "PA",
+        "Zip": "19046",
+        "County": "Montgomery",
+        "Stop_ID": "90315",
+        "Latitude": "40.104341",
+        "Longitude": "-75.124671"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.110531,
+          40.107411
+        ]
+      },
+      "properties": {
+        "name": "West Trenton Line",
+        "Line_Name": "West Trenton Line",
+        "Station_Na": "Rydal",
+        "Street_Add": "1470 Susquehanna Rd",
+        "On_Street": "Susquehanna Rd",
+        "At_Street": "Washington Ln",
+        "City": "Jenkintown",
+        "State": "PA",
+        "Zip": "19046",
+        "County": "Montgomery",
+        "Stop_ID": "90316",
+        "Latitude": "40.107411",
+        "Longitude": "-75.110531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.043786,
+          40.121865
+        ]
+      },
+      "properties": {
+        "name": "West Trenton Line",
+        "Line_Name": "West Trenton Line",
+        "Station_Na": "Philmont",
+        "Street_Add": "106 Tomlinson Rd",
+        "On_Street": "Tomlinson Rd",
+        "At_Street": "Philmont Ave",
+        "City": "Huntingdon Valley",
+        "State": "PA",
+        "Zip": "19006",
+        "County": "Montgomery",
+        "Stop_ID": "90319",
+        "Latitude": "40.121865",
+        "Longitude": "-75.043786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.012004,
+          40.130643
+        ]
+      },
+      "properties": {
+        "name": "West Trenton Line",
+        "Line_Name": "West Trenton Line",
+        "Station_Na": "Somerton",
+        "Street_Add": "13623 Philmont Ave",
+        "On_Street": "Philmont Ave",
+        "At_Street": "Bustleton Ave",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19116",
+        "County": "Philadelphia",
+        "Stop_ID": "90321",
+        "Latitude": "40.130643",
+        "Longitude": "-75.012004"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.817154,
+          40.140133
+        ]
+      },
+      "properties": {
+        "name": "Trenton Line",
+        "Line_Name": "Trenton Line",
+        "Station_Na": "Levittown",
+        "Street_Add": "8301 Bristol Pike",
+        "On_Street": "Bristol Pike",
+        "At_Street": "Levittown Pkwy",
+        "City": "Bristol",
+        "State": "PA",
+        "Zip": "19007",
+        "County": "Bucks",
+        "Stop_ID": "90702",
+        "Latitude": "40.140133",
+        "Longitude": "-74.817154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.024069,
+          40.032502
+        ]
+      },
+      "properties": {
+        "name": "Trenton Line",
+        "Line_Name": "Trenton Line",
+        "Station_Na": "Holmesburg Junction",
+        "Street_Add": "4783 Rhawn St",
+        "On_Street": "Rahwn St",
+        "At_Street": "Tulip St",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19136",
+        "County": "Philadelphia",
+        "Stop_ID": "90708",
+        "Latitude": "40.032502",
+        "Longitude": "-75.024069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.070014,
+          40.010668
+        ]
+      },
+      "properties": {
+        "name": "Trenton Line",
+        "Line_Name": "Trenton Line",
+        "Station_Na": "Bridesburg",
+        "Street_Add": "2202 Bridge St",
+        "On_Street": "Bridge St",
+        "At_Street": "Harbison Ave",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19137",
+        "County": "Philadelphia",
+        "Stop_ID": "90710",
+        "Latitude": "40.010668",
+        "Longitude": "-75.070014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.127665,
+          40.071288
+        ]
+      },
+      "properties": {
+        "name": "Joint",
+        "Line_Name": "Joint",
+        "Station_Na": "Elkins Park",
+        "Street_Add": "7876 Spring Ave",
+        "On_Street": "Spring Ave",
+        "At_Street": "Park Ave",
+        "City": "Elkins Park",
+        "State": "PA",
+        "Zip": "19027",
+        "County": "Montogomery",
+        "Stop_ID": "90409",
+        "Latitude": "40.071288",
+        "Longitude": "-75.127665"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.129154,
+          40.059447
+        ]
+      },
+      "properties": {
+        "name": "Joint",
+        "Line_Name": "Joint",
+        "Station_Na": "Melrose Park",
+        "Street_Add": "900 Valley Rd",
+        "On_Street": "Valley Rd",
+        "At_Street": "Mill Rd",
+        "City": "Elkins Park",
+        "State": "PA",
+        "Zip": "19027",
+        "County": "Montogomery",
+        "Stop_ID": "90408",
+        "Latitude": "40.059447",
+        "Longitude": "-75.129154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.161466,
+          40.036182
+        ]
+      },
+      "properties": {
+        "name": "Chestnut Hill East Line",
+        "Line_Name": "Chestnut Hill East Line",
+        "Station_Na": "Wister",
+        "Street_Add": "5230 Belfield Ave at Armstrong Ln",
+        "On_Street": "Belfield Ave",
+        "At_Street": "Armstrong St",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19144",
+        "County": "Philadelphia",
+        "Stop_ID": "90712",
+        "Latitude": "40.036182",
+        "Longitude": "-75.161466"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.185009,
+          40.062773
+        ]
+      },
+      "properties": {
+        "name": "Chestnut Hill East Line",
+        "Line_Name": "Chestnut Hill East Line",
+        "Station_Na": "Sedgwick",
+        "Street_Add": "7139 Devon St",
+        "On_Street": "Devon St",
+        "At_Street": "E. Mt. Pleasant Ave",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19119",
+        "County": "Philadelphia",
+        "Stop_ID": "90716",
+        "Latitude": "40.062773",
+        "Longitude": "-75.185009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.204488,
+          40.065785
+        ]
+      },
+      "properties": {
+        "name": "Chestnut Hill West Line",
+        "Line_Name": "Chestnut Hill West Line",
+        "Station_Na": "St. Martins",
+        "Street_Add": "320 W. Willow Grove Ave",
+        "On_Street": "W. Willow Grove Ave",
+        "At_Street": "Pocono St",
+        "City": "Philadelphia",
+        "State": "PA",
+        "Zip": "19118",
+        "County": "Philadelphia",
+        "Stop_ID": "90803",
+        "Latitude": "40.065785",
+        "Longitude": "-75.204488"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.300095,
+          40.014052
+        ]
+      },
+      "properties": {
+        "name": "Paoli Thorndale Line",
+        "Line_Name": "Paoli Thorndale Line",
+        "Station_Na": "Haverford",
+        "Street_Add": "43 Haverford Station Rd",
+        "On_Street": "Haverford Station Rd",
+        "At_Street": "Berkley Rd",
+        "City": "Haverford",
+        "State": "PA",
+        "Zip": "19041",
+        "County": "Montgomery",
+        "Stop_ID": "90517",
+        "Latitude": "40.014052",
+        "Longitude": "-75.300095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.290179,
+          40.008368
+        ]
+      },
+      "properties": {
+        "name": "Paoli Thorndale Line",
+        "Line_Name": "Paoli Thorndale Line",
+        "Station_Na": "Ardmore",
+        "Street_Add": "39 Station Rd",
+        "On_Street": "Station Ave",
+        "At_Street": "Anderson Ave",
+        "City": "Ardmore",
+        "State": "PA",
+        "Zip": "19003",
+        "County": "Montgomery",
+        "Stop_ID": "90518",
+        "Latitude": "40.008368",
+        "Longitude": "-75.290179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.342355,
+          40.038673
+        ]
+      },
+      "properties": {
+        "name": "Paoli Thorndale Line",
+        "Line_Name": "Paoli Thorndale Line",
+        "Station_Na": "Villanova",
+        "Street_Add": "308 N. Spring Mill Rd",
+        "On_Street": "N. Spring Mill Rd",
+        "At_Street": "County Line Rd",
+        "City": "Villonova",
+        "State": "PA",
+        "Zip": "19085",
+        "County": "Delaware",
+        "Stop_ID": "90514",
+        "Latitude": "40.038673",
+        "Longitude": "-75.342355"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.373495,
+          40.044105
+        ]
+      },
+      "properties": {
+        "name": "Paoli Thorndale Line",
+        "Line_Name": "Paoli Thorndale Line",
+        "Station_Na": "St. Davids",
+        "Street_Add": "53 Chamounix Rd (near Lancaster Ave)",
+        "On_Street": "Chamounix Rd",
+        "At_Street": "Lancaster Ave",
+        "City": "Wayne",
+        "State": "PA",
+        "Zip": "19087",
+        "County": "Delaware",
+        "Stop_ID": "90512",
+        "Latitude": "40.044105",
+        "Longitude": "-75.373495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.422887,
+          40.047383
+        ]
+      },
+      "properties": {
+        "name": "Paoli Thorndale Line",
+        "Line_Name": "Paoli Thorndale Line",
+        "Station_Na": "Devon",
+        "Street_Add": "1 N. Devon Blvd (off Lancaster Ave)",
+        "On_Street": "N. Devon Blvd",
+        "At_Street": "Lancaster Ave",
+        "City": "Devon",
+        "State": "PA",
+        "Zip": "19333",
+        "County": "Chester",
+        "Stop_ID": "90509",
+        "Latitude": "40.047383",
+        "Longitude": "-75.422887"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.621788,
+          40.019397
+        ]
+      },
+      "properties": {
+        "name": "Paoli Thorndale Line",
+        "Line_Name": "Paoli Thorndale Line",
+        "Station_Na": "Exton",
+        "Street_Add": "445 Walkertown Rd (off PA Route 100)",
+        "On_Street": "Walkertown Rd",
+        "At_Street": "PA Route 100",
+        "City": "Exton",
+        "State": "PA",
+        "Zip": "19341",
+        "County": "Chester",
+        "Stop_ID": "90504",
+        "Latitude": "40.019397",
+        "Longitude": "-75.621788"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.673143,
+          39.694534
+        ]
+      },
+      "properties": {
+        "name": "Wilmington Newark Line",
+        "Line_Name": "Wilmington Newark Line",
+        "Station_Na": "Churchmans Crossing",
+        "Street_Add": "1 Fairplay Blvd",
+        "On_Street": "Fairplay Blvd",
+        "At_Street": "Ogletown Stanton Rd",
+        "City": "Newark",
+        "State": "DE",
+        "Zip": "19713",
+        "County": "New Castle",
+        "Stop_ID": "90202",
+        "Latitude": "39.694534",
+        "Longitude": "-75.673143"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.290222,
+          39.926748
+        ]
+      },
+      "properties": {
+        "name": "Media Elwyn Line",
+        "Line_Name": "Media Elwyn Line",
+        "Station_Na": "Clifton-Aldan",
+        "Street_Add": "1 Springfield Rd",
+        "On_Street": "Springfield Rd",
+        "At_Street": "Maryland Ave",
+        "City": "Clifton Heights",
+        "State": "PA",
+        "Zip": "19018",
+        "County": "Delaware",
+        "Stop_ID": "90309",
+        "Latitude": "39.926748",
+        "Longitude": "-75.290222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.279101,
+          40.250095
+        ]
+      },
+      "properties": {
+        "name": "Lansdale Doylestown Line",
+        "Line_Name": "Lansdale Doylestown Line",
+        "Station_Na": "Ninth Street",
+        "Street_Add": "141 W. Ninth St",
+        "On_Street": "Ninth St",
+        "At_Street": "Shaw Ave",
+        "City": "Lansdale",
+        "State": "PA",
+        "Zip": "19446",
+        "County": "Montgomery",
+        "Stop_ID": "90539",
+        "Latitude": "40.250095",
+        "Longitude": "-75.279101"
+      }
+    }
+  ]
+}
