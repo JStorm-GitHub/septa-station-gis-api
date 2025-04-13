@@ -9,3 +9,5 @@ ENV/
 build/
 dist/
 *.egg-info/
+
+api_key.txt
