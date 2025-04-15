@@ -3,7 +3,7 @@ from starlette.status import HTTP_401_UNAUTHORIZED
 import os
 
 API_KEY_PATH = os.path.join(os.path.dirname(__file__), "../shared/api_key.txt")
-
+### Fetches generated API key
 def get_api_key():
     try:
         with open(API_KEY_PATH) as f:

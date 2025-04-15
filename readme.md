@@ -1,4 +1,4 @@
-# Project Setup
+# septa-station-gis-api Project Setup
 
 This project uses Docker to manage dependencies and services. Follow the steps below to get started.
 
@@ -15,7 +15,7 @@ This project uses Docker to manage dependencies and services. Follow the steps b
    This step creates a key file required by the application:
 
    ```bash
-   python generate_key.py
+   python3 generate_key.py
    ```
 
 2. **Build the Docker containers**

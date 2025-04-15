@@ -12,6 +12,8 @@ geojson_storage_path = "shared/storage/stations_parsed.geojson"
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
+    ### This function runs at start and generates an r-tree from the GeoJSON file
+    ### This r-tree is then loaded into app state memory
     global STATION_TREE, STATION_FEATURES
 
     with open(geojson_storage_path, "r") as f:

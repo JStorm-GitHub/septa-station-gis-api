@@ -16,6 +16,7 @@ def make_cache_key(lon: float, lat: float):
 
 @router.get("/closest-point")
 def get_closest_point(
+    ### API Endpoint. Passes r-tree to get result
     request: Request,
     lon: float = Query(..., ge=-180, le=180),
     lat: float = Query(..., ge=-90, le=90)
@@ -38,7 +39,6 @@ def get_closest_point(
         tree = request.app.state.STATION_TREE
         features = request.app.state.STATION_FEATURES
 
-        result = find_closest_point((lon, lat), tree, features)
         distance = get_distance((lon, lat), tree, features)
 
         if not is_nearby(distance, max_distance=MAX_DISTANCE_MILES):
@@ -50,6 +50,10 @@ def get_closest_point(
                     "message": "No SEPTA stations found within 50 miles."
                 }
             }
+        else:
+            result = find_closest_point((lon, lat), tree, features)
+
+
 
         cache[key] = result
         return result

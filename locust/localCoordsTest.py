@@ -31,6 +31,7 @@ class LocalCoordsTest(HttpUser):
         ) as response:
             try:
                 data = response.json()
+                logging.info(f"\nSelected Coords: lat:{lat}, lon:{lon}\n")
                 logging.info("\nResponse body\n")
                 logging.info(json.dumps(data, indent=2))
             except Exception as e:

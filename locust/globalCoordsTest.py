@@ -6,23 +6,23 @@ import logging
 with open("api_key.txt") as f:
     API_KEY = f.read().strip()
 
-class LocationLockTest(HttpUser):
+class GlobalCoordsTest(HttpUser):
     host = "http://127.0.0.1:8000/"
-    wait_time = between(0.5, 1)
+    wait_time = between(1, 2)
 
     def on_start(self):
         self.headers = {
             "Authorization": API_KEY
         }
-    
-    def repeat_coords(self):
-        lon = -75.149532
-        lat = 39.981479
-        return lon,lat
+
+    def random_coordinates(self):
+        lon = random.uniform(-200, 200)
+        lat = random.uniform(-180, 180)
+        return lon, lat
 
     @task
     def get_closest_point(self):
-        lon, lat = self.repeat_coords()
+        lon, lat = self.random_coordinates()
         with self.client.get(
             "/closest-point",
             headers=self.headers,
