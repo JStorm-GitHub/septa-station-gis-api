@@ -3,7 +3,7 @@ import random
 import json
 import logging
 
-with open("../shared/api_key.txt") as f:
+with open("api_key.txt") as f:
     API_KEY = f.read().strip()
 
 class LocalCoordsTest(HttpUser):
@@ -35,4 +35,4 @@ class LocalCoordsTest(HttpUser):
                 logging.info(json.dumps(data, indent=2))
             except Exception as e:
                 logging.info(f"\nInvalid JSON response. Status: {response.status_code}")
-                logging.info("Raw response:", response.text)
+                logging.info(f"Raw response: {response.text}")
