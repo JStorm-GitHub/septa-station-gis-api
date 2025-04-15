@@ -10,4 +10,6 @@ build/
 dist/
 *.egg-info/
 
-shared/
+shared/storage/temp_kmz/
+shared/storage/stations_parsed.geojson
+shared/api_key.txt

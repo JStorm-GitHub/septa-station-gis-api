@@ -24,4 +24,4 @@ services:
     depends_on:
       - redis
     volumes:
-      - ./data:/app/data  # mounts prebuilt GeoJSON into container
+      - ./shared:/app/shared
