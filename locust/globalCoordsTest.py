@@ -16,8 +16,8 @@ class GlobalCoordsTest(HttpUser):
         }
 
     def random_coordinates(self):
-        lon = random.uniform(-200, 200)
-        lat = random.uniform(-180, 180)
+        lon = random.uniform(-180, 180)
+        lat = random.uniform(-90, 90)
         return lon, lat
 
     @task
