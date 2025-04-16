@@ -4,7 +4,6 @@ filelock
 cachetools
 geojson
 shapely
-beautifulsoup4
 rtree
 haversine
 redis
