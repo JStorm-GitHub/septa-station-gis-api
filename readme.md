@@ -23,7 +23,7 @@ This project uses Docker to manage dependencies and services. Follow the steps b
    Build the images defined in `docker-compose.yml`:
 
    ```bash
-   docker compose build
+   sudo docker compose build
    ```
 
 3. **Start the application**
@@ -31,7 +31,7 @@ This project uses Docker to manage dependencies and services. Follow the steps b
    Run the services:
 
    ```bash
-   docker compose up
+   sudo docker compose up
    ```
 
    The application can be reached at `http://localhost:8000`
@@ -42,7 +42,7 @@ This project uses Docker to manage dependencies and services. Follow the steps b
 - To stop the services, press `Ctrl+C` and then run:
 
    ```bash
-   docker compose down
+   sudo docker compose down
    ```
 
 ## Locust Test 
