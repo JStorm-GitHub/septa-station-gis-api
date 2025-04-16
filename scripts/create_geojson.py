@@ -3,7 +3,7 @@ from shapely.geometry import Point, mapping
 import geojson
 from bs4 import BeautifulSoup
 
-def create_db(kml_path, output_path="shared/storage/stations_parsed.geojson"):
+def create_db(kml_path, output_path):
     ns = {
         'kml': 'http://www.opengis.net/kml/2.2',
         'gx': 'http://www.google.com/kml/ext/2.2'

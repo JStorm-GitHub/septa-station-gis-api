@@ -1,3 +1,3 @@
-# from localCoordsTest import LocalCoordsTest
+from localCoordsTest import LocalCoordsTest
 # from locationLockTest import LocationLockTest
-from globalCoordsTest import GlobalCoordsTest
+# from globalCoordsTest import GlobalCoordsTest

@@ -24,4 +24,4 @@ services:
     depends_on:
       - redis
     volumes:
-      - ./shared:/app/shared
+        - ./shared/storage:/app/shared/storage

@@ -5,6 +5,11 @@ from app.middleware import auth_and_rate_limit
 from geojson import load as geojson_load
 from shapely.geometry import shape
 from rtree import index
+import os
+
+# Get the absolute directory of the current file (main.py)
+# BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+# geojson_storage_path = os.path.join(BASE_DIR, "shared", "storage", "stations_parsed.geojson")
 
 STATION_TREE = None
 STATION_FEATURES = None
