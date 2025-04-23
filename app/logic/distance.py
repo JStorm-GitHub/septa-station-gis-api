@@ -4,10 +4,7 @@ from haversine import haversine
 def get_distance(location: tuple[float, float], rtree_idx, features):
     query_point = Point(location[0], location[1]) 
 
-    try:
-        candidate_id = next(rtree_idx.nearest((query_point.x, query_point.y, query_point.x, query_point.y), 1))
-    except StopIteration:
-        return False
+    candidate_id = next(rtree_idx.nearest((query_point.x, query_point.y, query_point.x, query_point.y), 1))
 
     station = features[candidate_id]
     station_geom = shape(station["geometry"])
@@ -15,4 +12,4 @@ def get_distance(location: tuple[float, float], rtree_idx, features):
 
     distance = haversine((query_point.y, query_point.x), (station_point.y, station_point.x), unit='mi')
     
-    return distance
+    return distance, station

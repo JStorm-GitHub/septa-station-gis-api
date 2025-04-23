@@ -1,7 +1,6 @@
 from fastapi import APIRouter, Query, Request, HTTPException
 from cachetools import TTLCache
 from cachetools.keys import hashkey
-from app.logic.search import find_closest_point
 from app.logic.distance import get_distance
 from app.logic.nearby import is_nearby
 from app.redis_client import r
@@ -38,8 +37,8 @@ def get_closest_point(
 
         tree = request.app.state.STATION_TREE
         features = request.app.state.STATION_FEATURES
-
-        distance = get_distance((lon, lat), tree, features)
+        # If the distance > 50 miles, return a GeoJSON-compatible null message.
+        distance, result = get_distance((lon, lat), tree, features)
 
         if not is_nearby(distance, max_distance=MAX_DISTANCE_MILES):
             result = {
@@ -50,10 +49,6 @@ def get_closest_point(
                     "message": "No SEPTA stations found within 50 miles."
                 }
             }
-        else:
-            result = find_closest_point((lon, lat), tree, features)
-
-
 
         cache[key] = result
         return result
